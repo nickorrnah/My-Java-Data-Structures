@@ -13,3 +13,6 @@ The sole goal of this repository is to showcase my code writing style and techni
 In the unlikely circumstance that this repository is happened upon by a student, you do not have my consent to copy this code and turn it in as your own work.  
 
 To all other parties, I highly encourage using Java's built-in versions of these functions over my own.
+
+## Where are the test files?
+All of these files have relevant JUnit tests to test their functionalities.  These files were written by the course Professor and TA, and are not mine to share publically.
